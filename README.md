@@ -22,9 +22,11 @@ pip install -r requirements.txt
 
 #### 3.1 Download Data
 
-You can download the NYC dataset and the POIs dataset from https://data.cityofnewyork.us.
+* The NYC dataset is derived from a fully publicly available real dataset, and the BJ dataset is derived from a map query trajectory dataset provided by a third-party location service provider.
 
-They need to be placed under the `data` folder.
+* You can download the NYC dataset and the POIs dataset from https://data.cityofnewyork.us.
+
+* They need to be placed under the `data` folder.
 
 #### 3.2 Data Process
 
